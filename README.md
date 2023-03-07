@@ -42,3 +42,9 @@ ChatGPT:
 "My apologies, here's a prompt for John as well:
 
 John: Create an abstract painting that explores the relationship between light and shadow, using contrasting tones and textures to create depth and dimension. Incorporate elements of movement and rhythm to give the painting a sense of energy and flow."
+
+choose a prompt for sydney as welll
+
+Sure, here's a prompt for Sydney:
+
+Sydney: Create a portrait of a person who has inspired you or impacted your life in a positive way. Use colors and composition to capture their personality and spirit, and convey the emotions and feelings that they evoke in you.
